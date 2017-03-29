@@ -6,7 +6,7 @@
 %                   Massachusetts Institute of Technology (MIT)
 %                   Cambridge, Massachusetts, USA
 %
-% License: Open Source under GPLv3
+% License: 
 % Contact: a.allalou@gmail.com
 % Website: https://github.com/aallalou/OPT-InSitu-Toolbox
 % If you use the OPT InSitu Toolbox for your research, we would appreciate 
