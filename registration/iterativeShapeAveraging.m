@@ -18,9 +18,9 @@
 % Copyright: 2017,  Researchlab of electronicss,
 %                   Massachusetts Institute of Technology (MIT)
 %                   Cambridge, Massachusetts, USA
-% License: Open Source under GPLv3
-% Contact: aallalou@mit.edu
-% Website: http:// 
+% License: 
+% Contact: a.allalou@gmail.com
+% Website: https://github.com/aallalou/OPT-InSitu-Toolbox
 %--------------------------------------------------------------------------
 function  [I_isa transformMatrix]=iterativeShapeAveraging( I, I_reference,I_mask )
 %If GPU is available it can be turn on for usage with elastix

@@ -13,9 +13,9 @@
 % Copyright: 2017,  Researchlab of electronicss,
 %                   Massachusetts Institute of Technology (MIT)
 %                   Cambridge, Massachusetts, USA
-% License: Open Source under GPLv3
-% Contact: aallalou@mit.edu
-% Website: http:// 
+% License: 
+% Contact: a.allalou@gmail.com
+% Website: https://github.com/aallalou/OPT-InSitu-Toolbox
 %--------------------------------------------------------------------------
 function varargout = imshow3Dpair(varargin)
 % IMSHOW3DPAIR MATLAB code for imshow3Dpair.fig
