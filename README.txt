@@ -6,7 +6,7 @@
 %                   Massachusetts Institute of Technology (MIT)
 %                   Cambridge, Massachusetts, USA
 %
-% License: 
+% License: GNU General Public License v3.0
 % Contact: a.allalou@gmail.com
 % Website: https://github.com/aallalou/OPT-InSitu-Toolbox
 % If you use the OPT InSitu Toolbox for your research, we would appreciate 
@@ -46,6 +46,18 @@ in situ registration. All data to run the examples can be downloaded from
 System requirements
 -------------------
 The code has been tested under Windows, 2.6ghz and 16GB RAM. 
+
+License
+-------
+All code except the 3rd party code is coverd by the LICENSE.txt file. 
+Files and folders covered by the LICENSE.txt file. 
+example2_runRegistration.m
+example1_ReconstructSingleFish.m
+\optreconstruction
+\registration
+\tools
+
+
 
 3rd Party
 ---------
