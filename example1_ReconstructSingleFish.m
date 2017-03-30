@@ -20,6 +20,7 @@
 
 %%
 addpath(genpath('optreconstruction'))
+addpath(genpath('3rdparty'))
 %% Select the OPT video file (.AVI)
 FilterIndex =0;
 while ~FilterIndex 

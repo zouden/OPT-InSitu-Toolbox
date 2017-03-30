@@ -13,6 +13,7 @@
 % Website: https://github.com/aallalou/OPT-InSitu-Toolbox
 %--------------------------------------------------------------------------
 addpath(genpath('registration'))
+addpath(genpath('3rdparty'))
 addpath(genpath('tools'))
 addpath(genpath('data'))
 
