@@ -36,7 +36,7 @@ when demonstrating the registration procedure in "example2_runRegistration.m",
 iterative shape averaging (ISA) of the WISH signal the and the registration
  between probe reference fish (PRF) and unstained reference fish (URF). 
 To replicate the procedure described in the paper, one can apply minor 
-modifications to the functions and, change the the input of the functions
+modifications to the functions and change the the input of the functions to
 includes both the green channel and blue channel images.
 
 There are two parts of the code Optical Projection Tomography (OPT) and 
@@ -45,7 +45,8 @@ in situ registration. All data to run the examples can be downloaded from
 
 System requirements
 -------------------
-The code has been tested under Windows, 2.6ghz and 16GB RAM. 
+Windows 7/8/10 
+Minimum RAM: 16GB RAM
 
 License
 -------
