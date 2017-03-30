@@ -24,10 +24,11 @@ need to be downloaded and installed are the ASTRA Tomography Toolbox
 more information and full descriptoin of the OPT in situ workflow se the 
 reference. 
 
-There are two parts of the code Optical Projection Tomography (OPT) and 
-in situ registration. All data to run the examples can be downloaded from 
-....
-To run the OPT example 
+This code shows the basic workflow of the Optical Projection Tomography (OPT) 
+reconstruction and the registration workflow presented in the paper "Automated
+deep-phenotyping of the vertebrate brain". This not an exact implemention of 
+the paper but is more intended to be as an initial starting point for 
+getting started to work with OPT and in situ analysis. 
 
 In order to reduce the data size need to be hosted and also for simplicity, 
 when demonstrating the registration procedure in "example2_runRegistration.m",
@@ -35,10 +36,12 @@ when demonstrating the registration procedure in "example2_runRegistration.m",
 iterative shape averaging (ISA) of the WISH signal the and the registration
  between probe reference fish (PRF) and unstained reference fish (URF). 
 To replicate the procedure described in the paper, one can apply minor 
-modifications to the function "iterativeShapeAveraging.m", so that the input
- of the function includes both the green channel and blue channel image, 
-and uses the blue channel image for the "% initial alignment of all data to
- the I_reference" section.
+modifications to the functions and, change the the input of the functions
+includes both the green channel and blue channel images.
+
+There are two parts of the code Optical Projection Tomography (OPT) and 
+in situ registration. All data to run the examples can be downloaded from 
+[publicationWebSite]
 
 
 References:
