@@ -49,7 +49,8 @@ The code has been tested under Windows, 2.6ghz and 16GB RAM.
 
 3rd Party
 ---------
-All 3rd party code is placed in a separate folder and is not covered by the LICENSE.txt file. 
+All 3rd party code is placed in a separate folder and is not covered by the LICENSE.txt file.
+All 3rd party code is covered by their respective license. 
 
 *******ASTRA Toolbox*********************************************
 This file is part of the ASTRA Toolbox
