@@ -43,6 +43,9 @@ There are two parts of the code Optical Projection Tomography (OPT) and
 in situ registration. All data to run the examples can be downloaded from 
 [publicationWebSite]
 
+System requirements
+-------------------
+The code has been tested under Windows on a xxx
 
 References:
 ------------
