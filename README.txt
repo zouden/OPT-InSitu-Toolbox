@@ -45,7 +45,35 @@ in situ registration. All data to run the examples can be downloaded from
 
 System requirements
 -------------------
-The code has been tested under Windows on a xxx
+The code has been tested under Windows, 2.6ghz and 16GB RAM. 
+
+3rd Party
+---------
+All 3rd party code is placed in a separate folder and is not covered by the LICENSE.txt file. 
+
+*******ASTRA Toolbox*********************************************
+This file is part of the ASTRA Toolbox
+Copyright: 2010-2015, iMinds-Vision Lab, University of Antwerp
+           2014-2015, CWI, Amsterdam
+           http://visielab.uantwerpen.be/ and http://www.cwi.nl/
+License: Open Source under GPLv3
+Contact: astra@uantwerpen.be
+Website: http://sf.net/projects/astra-toolbox
+*******************************************************************
+
+*******Inpaint_nans************************************************
+Author: John D'Errico
+e-mail address: woodchips@rochester.rr.com
+Release: 2
+Release date: 4/15/06
+*******************************************************************
+
+*******readVTK and writeVTKRGB ************************************
+Both functions are modified version of code written by Erik Vidholm
+Center for Image Analysis, Uppsala University, Sweden
+Erik Vidholm 2005
+Erik Vidholm 2006
+*******************************************************************
 
 References:
 ------------
