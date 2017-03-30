@@ -67,14 +67,14 @@ for i=1:8
 end
 
 % Align all mutant fish to the PRF
-for i=1:size(I_wt,4)
+for i=1:size(I_mt,4)
    [I_mt_transformed(:,:,:,i) transformMatrix_wt]=align2PRF(PRF,I_mt(:,:,:,i), I_brainmask);
 end
     
 
 
 I_ave_mt = mean(I_mt_transformed,4);
-figure;imshow(cat(2,squeeze(max(I_ave_wt,[],3))',squeeze(max(I_ave_mt,[],3)))',[])
+figure;imshow(cat(2,squeeze(max(I_ave_wt,[],3))',squeeze(max(I_ave_mt,[],3))'),[])
     
 
     
