@@ -25,7 +25,7 @@ function AlignInSituMacro(VideoName)
 close all;
 
 % Load sensor calibration data
-CalibrationFileName = [pwd,filesep,'calibrationImage.mat'];
+CalibrationFileName = ['.\data\OPT\calibrationImage.mat'];
 try
     load(CalibrationFileName)
     IcalIm = single(IcalIm);
