@@ -11,9 +11,10 @@
 % Website: https://github.com/aallalou/OPT-InSitu-Toolbox
 % If you use the OPT InSitu Toolbox for your research, we would appreciate 
 % if you would refer to the following paper:
-% xxxxxxxxxxxxxxTBDyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
-% xxxxxxxxxxxxxxTBDyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
-% xxxxxxxxxxxxxxTBDyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+%
+% A. Allalou, Y. Wu, M. Ghannad-Rezaie, P. M. Eimon, and M. F. Yanik, “Automated
+% deep-phenotyping of the vertebrate brain,” Elife, vol. 6, p. e23379, Apr. 2017.
+%
 %--------------------------------------------------------------------------
 
 The major part of the code is written in MATLAB. The open source registration
@@ -95,4 +96,6 @@ References:
 If you use any part of the OPT InSitu Toolbox code for your research, we 
 would appreciate it if you would refer to the following paper:
 
-Add Reference
+"A. Allalou, Y. Wu, M. Ghannad-Rezaie, P. M. Eimon, and M. F. Yanik, 
+“Automated deep-phenotyping of the vertebrate brain,” Elife, vol. 6, p. 
+e23379, Apr. 2017."
